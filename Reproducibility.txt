@@ -1,0 +1,21 @@
+## Reproducibility
+
+All experiments use MATLAB with:
+
+rng(0); % For consistent random initialization
+
+System dimensions:
+T = 30; % Time steps
+J = 15; % Iterations
+R = 4; % Regions
+d = 12; % Dimensions per node
+
+Quick run code:
+results = Copy_of_compare_all();
+
+Expected output (approximate; minor variations due to floating-point precision):
+NCB: MSE ≈ 6.5-6.7, Qecr ≈ 0.65
+CAF: MSE ≈ 6.2-6.6, Qecr ≈ 0.67
+VCG: MSE ≈ 7.5-7.8, Qecr ≈ 0.69, Willow triggers ≈ 150-300 (w + rho)
+
+Run multiple seeds (rng(0:4)) to assess stability; fluctuations <10% in MSE indicate robust governance.

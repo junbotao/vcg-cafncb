@@ -1,0 +1,15 @@
+## Version
+
+v1.0-engineering
+
+- Cold-start guards for density and curvature audits
+- Curvature denominator regularization (eps0 + 1e-3)
+- Kappa smoothing with one-step lag (eta_smooth configurable)
+- Willow rollback with gamma mixing (0.2 default for stability)
+- Density governance with hit-based gating (state/increment levels)
+- Reproducible toy benchmark (MATLAB runnable)
+
+Future upgrades:
+v1.1-density-refined (enhanced bandwidth adaptation)
+v1.2-adaptive-curvature (variable m/lambda scheduling)
+v2.0-multi-gen (full PNN-Gen1 to VCG-Gen4 integration)
