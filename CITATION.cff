@@ -1,5 +1,5 @@
 cff-version: 1.2.0
-title: "Gen-4 Variational Curvature Governance (VCG)"
+title: "VCG-CAFNCB: Nonclassical Brain (NCB) + Cross-Area Fusion + Variational Curvature Governance"
 message: "If you use this code or ideas, please cite the following works."
 type: software
 
@@ -8,7 +8,7 @@ authors:
     given-names: Junbo
 
 version: "v1.1.0-Gen4"
-date-released: 2026-01-01
+date-released: 2026-02-19
 
 repository-code: "https://github.com/junbotao/vcg-cafncb"
 
