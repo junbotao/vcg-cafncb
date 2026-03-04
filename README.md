@@ -1,3 +1,7 @@
+Engineering benchmarks based on this framework:
+
+vcg-cafncb
+
 # VCG-CAFNCB
 
 Variational Curvature Governance Framework
