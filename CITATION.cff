@@ -23,7 +23,7 @@ keywords:
 references:
 
   - type: article
-    title: "Variational Curvature Governance and Metric Reconstruction"
+    title:  "Variational Curvature Governance and Metric Reconstruction"
     doi: 10.5281/zenodo.18346857
     url: https://zenodo.org/records/18436207
 
@@ -40,4 +40,4 @@ references:
   - type: article
     title: "Neural Network Based Nonclassical Brain (NCB)"
     doi: 10.13140/RG.2.2.29099.25127
-    url: https://www.researchgate.net/publication/381231705_More_General_Edge_Learning_KAN_to_explain_explore_Brain_and_Application_of_Disease_Dynamics_by_CEKAN_and_PSPINN
+    url: https://www.researchgate.net/publication/381231705
