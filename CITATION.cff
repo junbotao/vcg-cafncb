@@ -1,0 +1,43 @@
+cff-version: 1.2.0
+title: "Gen-4 Variational Curvature Governance (VCG)"
+message: "If you use this code or ideas, please cite the following works."
+type: software
+
+authors:
+  - family-names: Tao
+    given-names: Junbo
+
+version: "v1.1.0-Gen4"
+date-released: 2026-01-01
+
+repository-code: "https://github.com/junbotao/vcg-cafncb"
+
+keywords:
+  - curvature governance
+  - gravitational wave detection
+  - adaptive whitening
+  - structural error correction
+  - curvature-governed systems
+  - brain-inspired computing
+
+references:
+
+  - type: article
+    title: "Variational Curvature Governance and Metric Reconstruction"
+    doi: 10.5281/zenodo.18346857
+    url: https://zenodo.org/records/18436207
+
+  - type: article
+    title: "Multi-Generation Evolution of AI Architecture for Curvature-Governed Macro-Micro Physical Modeling"
+    doi: 10.5281/zenodo.17640174
+    url: https://zenodo.org/records/18328515
+
+  - type: article
+    title: "Algorithmic quantum echo"
+    doi: 10.5281/zenodo.17178040
+    url: https://zenodo.org/records/17402375
+
+  - type: article
+    title: "Neural Network Based Nonclassical Brain (NCB)"
+    doi: 10.13140/RG.2.2.29099.25127
+    url: https://www.researchgate.net/publication/381231705_More_General_Edge_Learning_KAN_to_explain_explore_Brain_and_Application_of_Disease_Dynamics_by_CEKAN_and_PSPINN
